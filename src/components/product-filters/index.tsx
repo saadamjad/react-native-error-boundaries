@@ -35,9 +35,9 @@ const NewSelectionBar = ({ testID = 'parentContainerFilter' }) => {
 		});
 		setData(filterData);
 	};
-	useEffect(() => {
-		handlerFilter(0);
-	}, []);
+	// useEffect(() => {
+	// 	handlerFilter(0);
+	// }, []);
 
 	return (
 		<View
