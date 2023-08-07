@@ -22,6 +22,7 @@
 		"lodash.isempty": "^4.4.0",
 		"react": "18.2.0",
 		"react-native": "0.71.11",
+		"react-native-contacts": "^7.0.6",
 		"react-native-error-boundary": "^1.2.3",
 		"react-native-gesture-handler": "^2.12.0",
 		"react-native-image-placeholder": "^1.0.14",

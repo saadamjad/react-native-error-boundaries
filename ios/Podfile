@@ -26,6 +26,7 @@ target 'assessmentApp' do
 
   # Flags change depending on the env values.
   flags = get_default_flags()
+   pod 'react-native-contacts', :path => '../node_modules/react-native-contacts'
 
   use_react_native!(
     :path => config[:reactNativePath],
